@@ -1,0 +1,19 @@
+.flagborder {
+    width:900px;
+    height:500px;
+    border:solid 3px silver;
+}
+.rectangle {
+    width:300px;
+    height:500px;
+    float:left;
+}
+.green {
+    background-color:green;
+}
+.white {
+    background-color:white;
+}
+.red {
+    background-color:red;
+}
